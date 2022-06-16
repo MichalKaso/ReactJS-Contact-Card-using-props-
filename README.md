@@ -1,4 +1,4 @@
-# ReactJS Crads using props!
+# ReactJS Cards using props!
 
 Custom contanct cards using ReactJS's Components & Props! 
 
